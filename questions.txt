@@ -1,0 +1,5 @@
+"What is your name ?"
+"Who are you ?"
+"How are you ?"
+"Where do you live ?"
+"Tell me about yourself"
